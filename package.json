@@ -1,0 +1,14 @@
+{
+  "name": "transactions",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "tronweb": "^4.4.0"
+  },
+  "scripts": {
+    "transfer": "node app.js"
+  }
+}
